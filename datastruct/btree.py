@@ -52,10 +52,8 @@ if __name__ == "__main__":
 
     print "pre-traversal"
     preorder(Root)
-
     print "in-traversal"
     inorder(Root)
-
     print "post-traversal"
     postorder(Root)
 
